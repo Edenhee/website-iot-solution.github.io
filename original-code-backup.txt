@@ -1,0 +1,847 @@
+    <!-- ====== Footer Start ====== -->
+    <footer class="ud-footer wow fadeInUp" data-wow-delay=".15s">
+      <div class="shape shape-1">
+        <img src="assets/images/footer/shape-1.svg" alt="shape" />
+      </div>
+      <div class="shape shape-2">
+        <img src="assets/images/footer/shape-2.svg" alt="shape" />
+      </div>
+      <div class="shape shape-3">
+        <img src="assets/images/footer/shape-3.svg" alt="shape" />
+      </div>
+      <div class="ud-footer-widgets">
+        <div class="container">
+          <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-6">
+              <div class="ud-widget">
+                <a href="index.html" class="ud-footer-logo">
+                  <img src="assets/images/logo/logo.svg" alt="logo" />
+                </a>
+                <p class="ud-widget-desc">
+                  We provide a cutting-edge IoT Platform designed for agriculture.
+                </p>
+                <!--  Social Media  -->
+                <!--
+                <ul class="ud-widget-socials">
+                  <li>
+                    <a href="https://twitter.com/MusharofChy">
+                      <i class="lni lni-facebook-filled"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/MusharofChy">
+                      <i class="lni lni-twitter-filled"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/MusharofChy">
+                      <i class="lni lni-instagram-filled"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/MusharofChy">
+                      <i class="lni lni-linkedin-original"></i>
+                    </a>
+                  </li>
+                </ul>
+                -->
+              </div>
+            </div>
+
+            <div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">About Us</h5>
+                <ul class="ud-widget-links">
+                  <li>
+                    <a href="javascript:void(0)">Home</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">Features</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">About</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">Testimonial</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">Features</h5>
+                <ul class="ud-widget-links">
+                  <li>
+                    <a href="javascript:void(0)">How it works</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">Privacy policy</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">Terms of service</a>
+                  </li>
+                  <li>
+                    <a href="javascript:void(0)">Refund policy</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-6">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">Our Products</h5>
+                <ul class="ud-widget-links">
+                  <li>
+                    <a
+                      href="https://lineicons.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Lineicons
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://ecommercehtml.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Ecommerce HTML</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://ayroui.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Ayro UI</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="https://graygrids.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                      >Plain Admin</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Partners -->
+            <!--
+            <div class="col-xl-3 col-lg-6 col-md-8 col-sm-10">
+              <div class="ud-widget">
+                <h5 class="ud-widget-title">Partners</h5>
+                <ul class="ud-widget-brands">
+                  <li>
+                    <a
+                      href="https://ayroui.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/ayroui.svg"
+                        alt="ayroui"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://ecommercehtml.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/ecommerce-html.svg"
+                        alt="ecommerce-html"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://graygrids.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/graygrids.svg"
+                        alt="graygrids"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://lineicons.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/lineicons.svg"
+                        alt="lineicons"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://uideck.com/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/uideck.svg"
+                        alt="uideck"
+                      />
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://tailwindtemplates.co/"
+                      rel="nofollow noopner"
+                      target="_blank"
+                    >
+                      <img
+                        src="assets/images/footer/brands/tailwindtemplates.svg"
+                        alt="tailwindtemplates"
+                      />
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          -->
+          
+          </div>
+        </div>
+      </div>
+
+      <div class="ud-footer-bottom">
+        <div class="container">
+          <div class="row">
+            <!-- Footer Bottom -->
+            <!--
+            <div class="col-md-8">
+              <ul class="ud-footer-bottom-left">
+                <li>
+                  <a href="javascript:void(0)">Privacy policy</a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)">Support policy</a>
+                </li>
+                <li>
+                  <a href="javascript:void(0)">Terms of service</a>
+                </li>
+              </ul>
+            </div>
+            -->
+
+            <div class="col-md-4">
+              <p class="ud-footer-bottom-right">
+                Powered by Farm Assist Limited
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- ====== Footer End ====== -->
+
+    /* ===== Footer CSS ===== */
+
+<!-- ====== Footer scss ====== -->
+.ud-footer {
+  background: var(--heading-color);
+  padding-top: 100px;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+
+  .shape {
+    position: absolute;
+    z-index: -1;
+
+    &.shape-1 {
+      top: 0;
+      left: 0;
+    }
+
+    &.shape-2 {
+      top: 0;
+      right: 0;
+    }
+
+    &.shape-3 {
+      bottom: 0;
+      right: 0;
+    }
+  }
+}
+
+.ud-widget {
+  margin-bottom: 50px;
+
+  .ud-footer-logo {
+    max-width: 160px;
+    display: block;
+    margin-bottom: 10px;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .ud-widget-desc {
+    font-size: 15px;
+    line-height: 24px;
+    color: #f3f4fe;
+    margin-bottom: 30px;
+    max-width: 260px;
+  }
+
+  .ud-widget-socials {
+    display: flex;
+    align-items: center;
+
+    a {
+      font-size: 16px;
+      color: #dddddd;
+      margin-right: 20px;
+
+      &:hover {
+        color: var(--primary-color);
+      }
+    }
+  }
+
+  .ud-widget-title {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 35px;
+    color: var(--white);
+  }
+
+  .ud-widget-links {
+    a {
+      display: inline-block;
+      margin-bottom: 12px;
+      font-size: 15px;
+      line-height: 30px;
+      color: #f3f4fe;
+
+      &:hover {
+        color: var(--primary-color);
+        padding-left: 10px;
+      }
+    }
+  }
+
+  .ud-widget-brands {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    a {
+      display: block;
+      max-width: 120px;
+      margin-bottom: 20px;
+      margin-right: 20px;
+
+      @media #{$laptop} {
+        max-width: 100px;
+      }
+    }
+  }
+}
+
+.ud-footer-bottom {
+  padding: 35px 0;
+  border-top: 1px solid rgba(136, 144, 164, 0.43);
+
+  .ud-footer-bottom-left {
+    display: flex;
+    align-items: center;
+
+    @media #{$xs} {
+      justify-content: center;
+    }
+
+    a {
+      font-weight: normal;
+      font-size: 15px;
+      color: #f3f4fe;
+      margin-right: 30px;
+      display: inline-block;
+
+      @media #{$xs} {
+        margin: 0px 8px 8px;
+      }
+
+      &:hover {
+        color: var(--primary-color);
+      }
+    }
+  }
+
+  .ud-footer-bottom-right {
+    text-align: right;
+    font-weight: normal;
+    font-size: 15px;
+    color: #f3f4fe;
+
+    a {
+      color: var(--primary-color);
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    @media #{$xs} {
+      text-align: center;
+      margin-top: 10px;
+    }
+  }
+}
+
+
+        <!-- ====== Pricing Start ====== -->
+    <section id="pricing" class="ud-pricing">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-section-title mx-auto text-center">
+              <span>Pricing</span>
+              <h2>Our Pricing Plans</h2>
+              <p>
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row g-0 align-items-center justify-content-center">
+          <div class="col-lg-4 col-md-6 col-sm-10">
+            <div
+              class="ud-single-pricing first-item wow fadeInUp"
+              data-wow-delay=".15s"
+            >
+              <div class="ud-pricing-header">
+                <h3>STARTING FROM</h3>
+                <h4>$ 19.99/mo</h4>
+              </div>
+              <div class="ud-pricing-body">
+                <ul>
+                  <li>5 User</li>
+                  <li>All UI components</li>
+                  <li>Lifetime access</li>
+                  <li>Free updates</li>
+                  <li>Use on 1 (one) project</li>
+                  <li>4 Months support</li>
+                </ul>
+              </div>
+              <div class="ud-pricing-footer">
+                <a href="javascript:void(0)" class="ud-main-btn ud-border-btn">
+                  Purchase Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-10">
+            <div
+              class="ud-single-pricing active wow fadeInUp"
+              data-wow-delay=".1s"
+            >
+              <span class="ud-popular-tag">POPULAR</span>
+              <div class="ud-pricing-header">
+                <h3>STARTING FROM</h3>
+                <h4>$ 30.99/mo</h4>
+              </div>
+              <div class="ud-pricing-body">
+                <ul>
+                  <li>5 User</li>
+                  <li>All UI components</li>
+                  <li>Lifetime access</li>
+                  <li>Free updates</li>
+                  <li>Use on 1 (one) project</li>
+                  <li>4 Months support</li>
+                </ul>
+              </div>
+              <div class="ud-pricing-footer">
+                <a href="javascript:void(0)" class="ud-main-btn ud-white-btn">
+                  Purchase Now
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-10">
+            <div
+              class="ud-single-pricing last-item wow fadeInUp"
+              data-wow-delay=".15s"
+            >
+              <div class="ud-pricing-header">
+                <h3>STARTING FROM</h3>
+                <h4>$ 70.99/mo</h4>
+              </div>
+              <div class="ud-pricing-body">
+                <ul>
+                  <li>5 User</li>
+                  <li>All UI components</li>
+                  <li>Lifetime access</li>
+                  <li>Free updates</li>
+                  <li>Use on 1 (one) project</li>
+                  <li>4 Months support</li>
+                </ul>
+              </div>
+              <div class="ud-pricing-footer">
+                <a href="javascript:void(0)" class="ud-main-btn ud-border-btn">
+                  Purchase Now
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ====== Pricing End ====== -->
+
+        <!-- ====== Testimonials Start ====== -->
+    <!--
+    <section id="testimonials" class="ud-testimonials">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-section-title mx-auto text-center">
+              <span>Testimonials</span>
+              <h2>What our Customers Says</h2>
+              <p>
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div
+              class="ud-single-testimonial wow fadeInUp"
+              data-wow-delay=".1s"
+            >
+              <div class="ud-testimonial-ratings">
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+              </div>
+              <div class="ud-testimonial-content">
+                <p>
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
+                </p>
+              </div>
+              <div class="ud-testimonial-info">
+                <div class="ud-testimonial-image">
+                  <img
+                    src="assets/images/testimonials/author-01.png"
+                    alt="author"
+                  />
+                </div>
+                <div class="ud-testimonial-meta">
+                  <h4>Sabo Masties</h4>
+                  <p>Founder @UIdeck</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div
+              class="ud-single-testimonial wow fadeInUp"
+              data-wow-delay=".15s"
+            >
+              <div class="ud-testimonial-ratings">
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+              </div>
+              <div class="ud-testimonial-content">
+                <p>
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
+                </p>
+              </div>
+              <div class="ud-testimonial-info">
+                <div class="ud-testimonial-image">
+                  <img
+                    src="assets/images/testimonials/author-02.png"
+                    alt="author"
+                  />
+                </div>
+                <div class="ud-testimonial-meta">
+                  <h4>Margin Gesmu</h4>
+                  <p>Founder @Lineicons</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div
+              class="ud-single-testimonial wow fadeInUp"
+              data-wow-delay=".2s"
+            >
+              <div class="ud-testimonial-ratings">
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+                <i class="lni lni-star-filled"></i>
+              </div>
+              <div class="ud-testimonial-content">
+                <p>
+                  “Our members are so impressed. It's intuitive. It's clean.
+                  It's distraction free. If you're building a community.
+                </p>
+              </div>
+              <div class="ud-testimonial-info">
+                <div class="ud-testimonial-image">
+                  <img
+                    src="assets/images/testimonials/author-03.png"
+                    alt="author"
+                  />
+                </div>
+                <div class="ud-testimonial-meta">
+                  <h4>William Smith</h4>
+                  <p>Founder @GrayGrids</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-brands wow fadeInUp" data-wow-delay=".2s">
+              <div class="ud-title">
+                <h6>Trusted and Used by</h6>
+              </div>
+              <div class="ud-brands-logo">
+                <div class="ud-single-logo">
+                  <img src="assets/images/brands/ayroui.svg" alt="ayroui" />
+                </div>
+                <div class="ud-single-logo">
+                  <img src="assets/images/brands/uideck.svg" alt="uideck" />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/graygrids.svg"
+                    alt="graygrids"
+                  />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/lineicons.svg"
+                    alt="lineicons"
+                  />
+                </div>
+                <div class="ud-single-logo">
+                  <img
+                    src="assets/images/brands/ecommerce-html.svg"
+                    alt="ecommerce-html"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    -->
+    <!-- ====== Testimonials End ====== -->
+
+    <!-- ====== Team Start ====== -->
+    <!--
+    <section id="team" class="ud-team">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="ud-section-title mx-auto text-center">
+              <span>Our Team</span>
+              <h2>Meet The Team</h2>
+              <p>
+                There are many variations of passages of Lorem Ipsum available
+                but the majority have suffered alteration in some form.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".1s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-01.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Adveen Desuza</h5>
+                <h6>UI Designer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".15s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-02.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Jezmin uniya</h5>
+                <h6>Product Designer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".2s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-03.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Andrieo Gloree</h5>
+                <h6>App Developer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-xl-3 col-lg-3 col-sm-6">
+            <div class="ud-single-team wow fadeInUp" data-wow-delay=".25s">
+              <div class="ud-team-image-wrapper">
+                <div class="ud-team-image">
+                  <img src="assets/images/team/team-04.png" alt="team" />
+                </div>
+
+                <img
+                  src="assets/images/team/dotted-shape.svg"
+                  alt="shape"
+                  class="shape shape-1"
+                />
+                <img
+                  src="assets/images/team/shape-2.svg"
+                  alt="shape"
+                  class="shape shape-2"
+                />
+              </div>
+              <div class="ud-team-info">
+                <h5>Jackie Sanders</h5>
+                <h6>Content Writer</h6>
+              </div>
+              <ul class="ud-team-socials">
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-facebook-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-twitter-filled"></i>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/MusharofChy">
+                    <i class="lni lni-instagram-filled"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    -->
+    <!-- ====== Team End ====== -->

@@ -29,4 +29,8 @@ and sharing with friends. Also open an issue if you find bug or feel free to con
 - Edit index.html
 - Edit _footer.scss for footer layout
 - Edit _common.scss for theme color
-_ Edit _about.scss, _faq.scss and _contact.scss for .ud-about background: #D4F3E3;
+- Edit _about.scss, _faq.scss and _contact.scss for .ud-about background: #D4F3E3;
+
+2025-03-17
+- Change all the button redirect to the same page
+- Clean up irrelevant code
